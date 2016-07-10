@@ -61,7 +61,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2051,6 +2052,57 @@
               "2",
               "[@melezov](https://github.com/melezov)/[**xsbt-pause**](https://github.com/melezov/xsbt-pause)",
               "Tiny XSBT plugin which adds pause functionality",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@fffilo](https://github.com/fffilo)/[**ubuntu-after-install**](https://github.com/fffilo/ubuntu-after-install)",
+              "Execute bash scripts after fresh Ubuntu install",
+              ""
+            ],
+            [
+              "5",
+              "[@ffzg](https://github.com/ffzg)/[**ganeti-extstorage-zf…**](https://github.com/ffzg/ganeti-extstorage-zfs)",
+              "Experimental Ganeti extstorage provider for ZFS volumes",
+              ""
+            ],
+            [
+              "3",
+              "[@iturcino](https://github.com/iturcino)/[**docker-files**](https://github.com/iturcino/docker-files)",
+              "Docker files",
+              ""
+            ],
+            [
+              "3",
+              "[@fffilo](https://github.com/fffilo)/[**vasite**](https://github.com/fffilo/vasite)",
+              "Virtual machine for web development",
+              ""
+            ],
+            [
+              "2",
+              "[@akrasic](https://github.com/akrasic)/[**i3-config**](https://github.com/akrasic/i3-config)",
+              "i3-configuration files",
+              ""
+            ],
+            [
+              "2",
+              "[@fffilo](https://github.com/fffilo)/[**gitsound**](https://github.com/fffilo/gitsound)",
+              "Play sound on git command",
               ""
             ]
           ]
