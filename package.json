@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -972,6 +973,141 @@
               "[@vjeranc](https://github.com/vjeranc)/[**concraft-hr**](https://github.com/vjeranc/concraft-hr)",
               "A part-of-speech tagger for Croatian based on the concraft library.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "323",
+              "[@lukagabric](https://github.com/lukagabric)/[**LASIImageView**](https://github.com/lukagabric/LASIImageView)",
+              "iOS UIImageView subclass - download image with different progress indicators",
+              "[:arrow_upper_right:](http://lukagabric.com/lasiimageview-download-image-with-progress-indicator/)"
+            ],
+            [
+              "199",
+              "[@lukagabric](https://github.com/lukagabric)/[**LTransitionImageView**](https://github.com/lukagabric/LTransitionImageView)",
+              "iOS Image View with transition between images",
+              "[:arrow_upper_right:](http://lukagabric.com/ltransitionimageview-ios-image-view-with-transition-animation/)"
+            ],
+            [
+              "94",
+              "[@lukagabric](https://github.com/lukagabric)/[**LBorderView**](https://github.com/lukagabric/LBorderView)",
+              "iOS UIView with dashed or solid line border",
+              "[:arrow_upper_right:](http://lukagabric.com/cashapelayer-example-round-corners-view-with-dashed-line-border/)"
+            ],
+            [
+              "58",
+              "[@lukagabric](https://github.com/lukagabric)/[**LEffectLabel**](https://github.com/lukagabric/LEffectLabel)",
+              "iOS Text Label With Effect",
+              "[:arrow_upper_right:](http://lukagabric.com/effect-label-using-cagradientlayer-and-caanimation)"
+            ],
+            [
+              "45",
+              "[@lukagabric](https://github.com/lukagabric)/[**LPlaceholderTextView**](https://github.com/lukagabric/LPlaceholderTextView)",
+              "UITextView subclass with placeholder text",
+              "[:arrow_upper_right:](http://lukagabric.com/lplaceholdertextview-uitextview-subclass-with-placeholder/)"
+            ],
+            [
+              "36",
+              "[@lukagabric](https://github.com/lukagabric)/[**LGDragDrop**](https://github.com/lukagabric/LGDragDrop)",
+              "iOS Drag&Drop in Objective-C and Swift 2.0",
+              "[:arrow_upper_right:](http://lukagabric.com/ios-drag-drop/)"
+            ],
+            [
+              "27",
+              "[@Planet1107](https://github.com/Planet1107)/[**PNTToolbar**](https://github.com/Planet1107/PNTToolbar)",
+              "Simple class which adds Safari like toolbar to keyboard and handles switching between input fields.",
+              ""
+            ],
+            [
+              "27",
+              "[@lukagabric](https://github.com/lukagabric)/[**LGLinearFlow**](https://github.com/lukagabric/LGLinearFlow)",
+              "iOS Collection View linear flow layout with zoom effect and variable page size; Swift 2.0 and ObjC",
+              "[:arrow_upper_right:](http://lukagabric.com/uicollectionview-paging-with-custom-page-width-and-zoom/)"
+            ],
+            [
+              "21",
+              "[@lukagabric](https://github.com/lukagabric)/[**LTimer**](https://github.com/lukagabric/LTimer)",
+              "iOS Timer",
+              "[:arrow_upper_right:](http://lukagabric.com/ltimer-ios-nstimer-helper-class/)"
+            ],
+            [
+              "18",
+              "[@lukagabric](https://github.com/lukagabric)/[**LFilterView**](https://github.com/lukagabric/LFilterView)",
+              "iOS Filter View - Checkbox and Radio",
+              "[:arrow_upper_right:](http://lukagabric.com/lfilterview-ios-checkbox-and-radio-control)"
+            ],
+            [
+              "18",
+              "[@lukagabric](https://github.com/lukagabric)/[**LRouteController**](https://github.com/lukagabric/LRouteController)",
+              "Simple class to get and draw route with optional waypoints using Google Maps SDK for iOS.",
+              "[:arrow_upper_right:](http://lukagabric.com/google-maps-sdk-route/)"
+            ],
+            [
+              "13",
+              "[@bozidarsevo](https://github.com/bozidarsevo)/[**sprite-kit-pong**](https://github.com/bozidarsevo/sprite-kit-pong)",
+              "Pong game made with Sprite Kit",
+              ""
+            ],
+            [
+              "12",
+              "[@lukagabric](https://github.com/lukagabric)/[**LargeDatasetSample**](https://github.com/lukagabric/LargeDatasetSample)",
+              "iOS Large Dataset Sample - Core Data and NSFetchedResultsController with search (like Contacts in Phone application)",
+              "[:arrow_upper_right:](http://lukagabric.com/large-dataset-sample-core-data-and-nsfetchedresultscontroller-with-search/)"
+            ],
+            [
+              "11",
+              "[@lukagabric](https://github.com/lukagabric)/[**LHelper**](https://github.com/lukagabric/LHelper)",
+              "iOS Helper Methods And Class Extensions",
+              "[:arrow_upper_right:](http://lukagabric.com/lhelper-ios-helper-methods-and-class-extensions/)"
+            ],
+            [
+              "7",
+              "[@bozidarsevo](https://github.com/bozidarsevo)/[**regular-rect-sktextu…**](https://github.com/bozidarsevo/regular-rect-sktexture-subtexture)",
+              "SKTexture Regular Rect Coordinates Subtexture",
+              ""
+            ],
+            [
+              "7",
+              "[@bozidarsevo](https://github.com/bozidarsevo)/[**sprite-kit-breakout**](https://github.com/bozidarsevo/sprite-kit-breakout)",
+              "Sprite Kit Breakout",
+              ""
+            ],
+            [
+              "5",
+              "[@lukagabric](https://github.com/lukagabric)/[**WordFinder**](https://github.com/lukagabric/WordFinder)",
+              "Graph theory - Objective C Breadth-first search example",
+              "[:arrow_upper_right:](http://lukagabric.com/graph-theory-breadth-first-search-example/)"
+            ],
+            [
+              "5",
+              "[@brbulic](https://github.com/brbulic)/[**TracerouteTester**](https://github.com/brbulic/TracerouteTester)",
+              "A simple iOS app with support to traceroute.",
+              ""
+            ],
+            [
+              "3",
+              "[@lukagabric](https://github.com/lukagabric)/[**LTranslationsControl…**](https://github.com/lukagabric/LTranslationsController)",
+              "iOS Translations Controller handles application localization with remote localization files.",
+              ""
+            ],
+            [
+              "2",
+              "[@lukagabric](https://github.com/lukagabric)/[**LAbstractParser**](https://github.com/lukagabric/LAbstractParser)",
+              "iOS Abstract Parser",
+              "[:arrow_upper_right:](http://lukagabric.com/abstract-xml-parser-labstractparser/)"
             ]
           ]
         }
