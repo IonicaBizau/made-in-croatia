@@ -56,7 +56,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1108,6 +1109,117 @@
               "[@lukagabric](https://github.com/lukagabric)/[**LAbstractParser**](https://github.com/lukagabric/LAbstractParser)",
               "iOS Abstract Parser",
               "[:arrow_upper_right:](http://lukagabric.com/abstract-xml-parser-labstractparser/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "38",
+              "[@dpavlin](https://github.com/dpavlin)/[**perl-cwmp**](https://github.com/dpavlin/perl-cwmp)",
+              "Perl ACS server implementing CWMP protocol to manage CPE clients",
+              "[:arrow_upper_right:](http://blog.rot13.org/perl-cwmp/)"
+            ],
+            [
+              "25",
+              "[@dpavlin](https://github.com/dpavlin)/[**perl-Redis-obsolete**](https://github.com/dpavlin/perl-Redis-obsolete)",
+              "perl binding for Redis database - latest development is in melo's repository",
+              "[:arrow_upper_right:](https://github.com/melo/perl-redis)"
+            ],
+            [
+              "22",
+              "[@dpavlin](https://github.com/dpavlin)/[**Printer-Zebra**](https://github.com/dpavlin/Printer-Zebra)",
+              "Zebra label printer ZPL interpreter and rasterizator",
+              "[:arrow_upper_right:](http://blog.rot13.org/2012/02/printing-from-koha-to-zebra-printers-on-local-windows-machine.html)"
+            ],
+            [
+              "14",
+              "[@dpavlin](https://github.com/dpavlin)/[**perl-Mifare-MAD**](https://github.com/dpavlin/perl-Mifare-MAD)",
+              "pretty print Mifare Classic MAD - Mifare Application Directory from dump files",
+              "[:arrow_upper_right:](http://blog.rot13.org/2011/01/mifare_application_directory_-_what_is_stored_on_rfid_card_in_your_wallet.html)"
+            ],
+            [
+              "12",
+              "[@dpavlin](https://github.com/dpavlin)/[**angular-mojolicious**](https://github.com/dpavlin/angular-mojolicious)",
+              "REST JSONP server for <angular/> using mojolicious and CouchDB",
+              "[:arrow_upper_right:](http://blog.rot13.org/angular/)"
+            ],
+            [
+              "10",
+              "[@dpavlin](https://github.com/dpavlin)/[**Biblio-SIP2**](https://github.com/dpavlin/Biblio-SIP2)",
+              "Simple 3M SIP2 Standard Interchange Protocol implementation in perl",
+              ""
+            ],
+            [
+              "9",
+              "[@dpavlin](https://github.com/dpavlin)/[**Biblio-Z3950**](https://github.com/dpavlin/Biblio-Z3950)",
+              "scrape web catalogs and serve them with Z39.50 server",
+              "[:arrow_upper_right:](http://blog.rot13.org/z3950/)"
+            ],
+            [
+              "7",
+              "[@dpavlin](https://github.com/dpavlin)/[**Biblio-RFID**](https://github.com/dpavlin/Biblio-RFID)",
+              "perl tools to use different RFID readers for library use",
+              "[:arrow_upper_right:](http://blog.rot13.org/rfid/)"
+            ],
+            [
+              "5",
+              "[@dpavlin](https://github.com/dpavlin)/[**MojoFacets**](https://github.com/dpavlin/MojoFacets)",
+              "Server-side facet browsing using Mojolicious and jQuery UI",
+              "[:arrow_upper_right:](http://blog.rot13.org/mojofacets/)"
+            ],
+            [
+              "5",
+              "[@dpavlin](https://github.com/dpavlin)/[**bak-git**](https://github.com/dpavlin/bak-git)",
+              "Simple tracking of remote files in central git repository with only shell, netcat, rsync and ssh on client",
+              "[:arrow_upper_right:](http://blog.rot13.org/bak-git/)"
+            ],
+            [
+              "5",
+              "[@dpavlin](https://github.com/dpavlin)/[**Koha**](https://github.com/dpavlin/Koha)",
+              "Local chages for FFZG which we done in Koha. Please see upstream repository for official version ---- Koha is a free software integrated library system.  Koha is distributed under the GNU GPL version 2 or later. Please read the file LICENSE for more details.",
+              "[:arrow_upper_right:](http://koha-community.org)"
+            ],
+            [
+              "4",
+              "[@dpavlin](https://github.com/dpavlin)/[**snmp-json**](https://github.com/dpavlin/snmp-json)",
+              "pull data from SNMP into JSON",
+              ""
+            ],
+            [
+              "4",
+              "[@dpavlin](https://github.com/dpavlin)/[**Printer-EVOLIS**](https://github.com/dpavlin/Printer-EVOLIS)",
+              "pixel-exact driver for EVOLIS Dualys two-side card printer in perl",
+              "[:arrow_upper_right:](http://blog.rot13.org/2010/08/evolis-dualys-pixel-exact-printing-without-cups.html)"
+            ],
+            [
+              "3",
+              "[@dpavlin](https://github.com/dpavlin)/[**MojoX-Gearman**](https://github.com/dpavlin/MojoX-Gearman)",
+              "experimental Gearman support for Mojolicious",
+              ""
+            ],
+            [
+              "2",
+              "[@dpavlin](https://github.com/dpavlin)/[**sql-sitemap**](https://github.com/dpavlin/sql-sitemap)",
+              "Create (huge) sitemap for web crawlers using SQL queries",
+              ""
+            ],
+            [
+              "2",
+              "[@dpavlin](https://github.com/dpavlin)/[**google-map-tiles**](https://github.com/dpavlin/google-map-tiles)",
+              "Google map data layer using custom tiles",
+              "[:arrow_upper_right:](http://blog.rot13.org/2011/04/google-map-data-layer-using-custom-tiles.html)"
             ]
           ]
         }
