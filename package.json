@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -817,6 +818,51 @@
               "2",
               "[@krofna](https://github.com/krofna)/[**Warrior-of-Dreamworl…**](https://github.com/krofna/Warrior-of-Dreamworld-r3)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "55",
+              "[@justpinegames](https://github.com/justpinegames)/[**QuadtreeSprite-Exten…**](https://github.com/justpinegames/QuadtreeSprite-Extension)",
+              "QuadtreeSprite extensions for Starling. Enables efficient handling of large number of children DisplayObjects.",
+              ""
+            ],
+            [
+              "15",
+              "[@Vj3k0](https://github.com/Vj3k0)/[**robotlegs-bender-exa…**](https://github.com/Vj3k0/robotlegs-bender-example-SARS-integration)",
+              "S(tarling), A(way3D), R(obotlegs 2), S(ignalCommandMap extension) integration example",
+              ""
+            ],
+            [
+              "10",
+              "[@isBatak](https://github.com/isBatak)/[**LocaleManager**](https://github.com/isBatak/LocaleManager)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@justpinegames](https://github.com/justpinegames)/[**Modi**](https://github.com/justpinegames/Modi)",
+              "AS3 MVC model library for defining application data with serialization and observing.",
+              ""
+            ],
+            [
+              "3",
+              "[@Vj3k0](https://github.com/Vj3k0)/[**robotlegs-extensions…**](https://github.com/Vj3k0/robotlegs-extensions-starling)",
+              "A set of extensions for Robotlegs 2 to support usage with the Starling framework.",
               ""
             ]
           ]
