@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -863,6 +864,27 @@
               "3",
               "[@Vj3k0](https://github.com/Vj3k0)/[**robotlegs-extensions…**](https://github.com/Vj3k0/robotlegs-extensions-starling)",
               "A set of extensions for Robotlegs 2 to support usage with the Starling framework.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@srolija](https://github.com/srolija)/[**node-passkit**](https://github.com/srolija/node-passkit)",
+              "Passbook passes with PassKit (http://www.passkit.com) API made easy",
               ""
             ]
           ]
