@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -671,6 +672,87 @@
               "7",
               "[@marioloncarek](https://github.com/marioloncarek)/[**responsive-overlay-m…**](https://github.com/marioloncarek/responsive-overlay-menu)",
               "Framework for making responsive overlay menus",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "54",
+              "[@loboris](https://github.com/loboris)/[**OrangePI-Kernel**](https://github.com/loboris/OrangePI-Kernel)",
+              "",
+              ""
+            ],
+            [
+              "35",
+              "[@LorDClockaN](https://github.com/LorDClockaN)/[**LorDmodUE**](https://github.com/LorDClockaN/LorDmodUE)",
+              "CM7 Ace kernel 2.6.35 from official source (by Cyanogenmod team) patched to extreme",
+              ""
+            ],
+            [
+              "10",
+              "[@loboris](https://github.com/loboris)/[**MICO**](https://github.com/loboris/MICO)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@dmarion](https://github.com/dmarion)/[**freebsd-armv6**](https://github.com/dmarion/freebsd-armv6)",
+              "FreeBSD/arm on ARMv6/ARMv7",
+              ""
+            ],
+            [
+              "4",
+              "[@loboris](https://github.com/loboris)/[**RePhone_on_Linux**](https://github.com/loboris/RePhone_on_Linux)",
+              "RePhone develpment on Linux with Eclipse",
+              ""
+            ],
+            [
+              "3",
+              "[@LorDClockaN](https://github.com/LorDClockaN)/[**LorDNeo_2639**](https://github.com/LorDClockaN/LorDNeo_2639)",
+              "HTC OneX kernel for Sense",
+              ""
+            ],
+            [
+              "2",
+              "[@LorDClockaN](https://github.com/LorDClockaN)/[**LorDmodSaga**](https://github.com/LorDClockaN/LorDmodSaga)",
+              "Desire S kernel",
+              ""
+            ],
+            [
+              "2",
+              "[@fergy](https://github.com/fergy)/[**iPhone_kernel_26**](https://github.com/fergy/iPhone_kernel_26)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fergy](https://github.com/fergy)/[**kernel_htc_mtk**](https://github.com/fergy/kernel_htc_mtk)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dmarion](https://github.com/dmarion)/[**xnu**](https://github.com/dmarion/xnu)",
+              "Apple Darwin xnu Kernel",
+              "[:arrow_upper_right:](http://www.opensource.apple.com/)"
+            ],
+            [
+              "2",
+              "[@dmarion](https://github.com/dmarion)/[**flash32w**](https://github.com/dmarion/flash32w)",
+              "Flash tool for STM32W based boards",
               ""
             ]
           ]
