@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -885,6 +886,51 @@
               "3",
               "[@srolija](https://github.com/srolija)/[**node-passkit**](https://github.com/srolija/node-passkit)",
               "Passbook passes with PassKit (http://www.passkit.com) API made easy",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "35",
+              "[@minus5](https://github.com/minus5)/[**gofreetds**](https://github.com/minus5/gofreetds)",
+              "Go Sql Server database driver.",
+              ""
+            ],
+            [
+              "8",
+              "[@mkasner](https://github.com/mkasner)/[**butler**](https://github.com/mkasner/butler)",
+              "Execute commands through SSH in Golang",
+              ""
+            ],
+            [
+              "3",
+              "[@stratoberry](https://github.com/stratoberry)/[**go-gpsd**](https://github.com/stratoberry/go-gpsd)",
+              "GPSD client for Go.",
+              ""
+            ],
+            [
+              "2",
+              "[@vedranvuk](https://github.com/vedranvuk)/[**strings**](https://github.com/vedranvuk/strings)",
+              "Additional string parsing functions for golang",
+              ""
+            ],
+            [
+              "2",
+              "[@mkasner](https://github.com/mkasner)/[**drops**](https://github.com/mkasner/drops)",
+              "Write HTML5 applications in Golang",
               ""
             ]
           ]
