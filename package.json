@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -753,6 +754,69 @@
               "2",
               "[@dmarion](https://github.com/dmarion)/[**flash32w**](https://github.com/dmarion/flash32w)",
               "Flash tool for STM32W based boards",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10",
+              "[@antrad](https://github.com/antrad)/[**If_Quake_2_Was_2D**](https://github.com/antrad/If_Quake_2_Was_2D)",
+              "A Quake 2D demo I made in 2012 using MUG engine",
+              ""
+            ],
+            [
+              "4",
+              "[@kicho](https://github.com/kicho)/[**Cataclysm**](https://github.com/kicho/Cataclysm)",
+              " TEST - MaNGOS repo supporting Cataclysm Expansion (4.0.3-13329)",
+              ""
+            ],
+            [
+              "4",
+              "[@krofna](https://github.com/krofna)/[**Warrior-of-Dreamworl…**](https://github.com/krofna/Warrior-of-Dreamworld)",
+              "Warrior of Dreamworld is 2D Massivly Multiplayer Online Role Playing Game with Real-time combat",
+              ""
+            ],
+            [
+              "3",
+              "[@kicho](https://github.com/kicho)/[**mangos**](https://github.com/kicho/mangos)",
+              "Basically my test repo playground containing various custom fixes",
+              ""
+            ],
+            [
+              "2",
+              "[@kicho](https://github.com/kicho)/[**ScriptDev2**](https://github.com/kicho/ScriptDev2)",
+              "SD2 modified to work along with my \"mangos\" repo (github.com/kicho/mangos)",
+              ""
+            ],
+            [
+              "2",
+              "[@khrvati](https://github.com/khrvati)/[**nao-object-gesture**](https://github.com/khrvati/nao-object-gesture)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@srdanrasic](https://github.com/srdanrasic)/[**OpenCLWrapper**](https://github.com/srdanrasic/OpenCLWrapper)",
+              "A simple OpenCL Wrapper created for a seminar project.",
+              ""
+            ],
+            [
+              "2",
+              "[@krofna](https://github.com/krofna)/[**Warrior-of-Dreamworl…**](https://github.com/krofna/Warrior-of-Dreamworld-r3)",
+              "",
               ""
             ]
           ]
