@@ -59,7 +59,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1791,6 +1792,183 @@
               "2",
               "[@tkrajina](https://github.com/tkrajina)/[**simple-py-nn**](https://github.com/tkrajina/simple-py-nn)",
               "Hopfield neural network in python. This is a plain rewrite of the algorithm in Mark Thompson book JavaAI (http://www.markwatson.com/opencontent/)… Just for testing purposes.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "218",
+              "[@vlado](https://github.com/vlado)/[**rails_db_info**](https://github.com/vlado/rails_db_info)",
+              "Rails engine which will give you a quick display of your database schema and contents for reference",
+              ""
+            ],
+            [
+              "100",
+              "[@elvanja](https://github.com/elvanja)/[**jenkins-gitlab-hook-…**](https://github.com/elvanja/jenkins-gitlab-hook-plugin)",
+              "Enables Gitlab web hooks to be used to trigger SMC polling on Gitlab projects",
+              ""
+            ],
+            [
+              "29",
+              "[@vlado](https://github.com/vlado)/[**open_exchange_rates**](https://github.com/vlado/open_exchange_rates)",
+              "Ruby gem for currency conversion based on Open Exchange Rates API",
+              ""
+            ],
+            [
+              "18",
+              "[@vlado](https://github.com/vlado)/[**remote_forgery_prote…**](https://github.com/vlado/remote_forgery_protection)",
+              "Rails plugin that automatically adds authenticity token to Ajax request",
+              ""
+            ],
+            [
+              "16",
+              "[@vlado](https://github.com/vlado)/[**rails_javascript_log**](https://github.com/vlado/rails_javascript_log)",
+              "Rails engine (asset gem) containing Adam Schwartz's javascript logging library",
+              ""
+            ],
+            [
+              "14",
+              "[@vlado](https://github.com/vlado)/[**rails_temporary_data**](https://github.com/vlado/rails_temporary_data)",
+              "Rails engine to simply save temporary data that is too big for session in database",
+              ""
+            ],
+            [
+              "9",
+              "[@zeljkofilipin](https://github.com/zeljkofilipin)/[**watir-nokogiri**](https://github.com/zeljkofilipin/watir-nokogiri)",
+              "Speeding up watir-webdriver with nokogiri.",
+              ""
+            ],
+            [
+              "9",
+              "[@zeljkofilipin](https://github.com/zeljkofilipin)/[**selenium-vagrant**](https://github.com/zeljkofilipin/selenium-vagrant)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@elvanja](https://github.com/elvanja)/[**roar_example**](https://github.com/elvanja/roar_example)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@ianic](https://github.com/ianic)/[**mssql**](https://github.com/ianic/mssql)",
+              "MS Sql Server shell client",
+              ""
+            ],
+            [
+              "6",
+              "[@elvanja](https://github.com/elvanja)/[**codility**](https://github.com/elvanja/codility)",
+              "Various Codility excercises",
+              ""
+            ],
+            [
+              "5",
+              "[@vlado](https://github.com/vlado)/[**rindeed**](https://github.com/vlado/rindeed)",
+              "Ruby wrapper around Indeed Web Services (XML interface).",
+              ""
+            ],
+            [
+              "5",
+              "[@zeljkofilipin](https://github.com/zeljkofilipin)/[**pacman**](https://github.com/zeljkofilipin/pacman)",
+              "Automating Google Pacman",
+              ""
+            ],
+            [
+              "5",
+              "[@vlado](https://github.com/vlado)/[**sexy_buttons**](https://github.com/vlado/sexy_buttons)",
+              "Sexy styled buttons for your Rails app with themes generator",
+              ""
+            ],
+            [
+              "4",
+              "[@xajler](https://github.com/xajler)/[**algorithms-rb**](https://github.com/xajler/algorithms-rb)",
+              "The Algorithms from Coursera course Algorithms, Part I by Robert Sedgewick and Kevin Wayne written in Ruby.",
+              ""
+            ],
+            [
+              "4",
+              "[@vlado](https://github.com/vlado)/[**divisible**](https://github.com/vlado/divisible)",
+              "Ruby gem useful in case you need to find out if one number is divisible by another",
+              ""
+            ],
+            [
+              "4",
+              "[@shime](https://github.com/shime)/[**sinatrify**](https://github.com/shime/sinatrify)",
+              "Make Rails controller actions look like Sinatra routes",
+              ""
+            ],
+            [
+              "3",
+              "[@zeljkofilipin](https://github.com/zeljkofilipin)/[**watir-parallel**](https://github.com/zeljkofilipin/watir-parallel)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@zeljkofilipin](https://github.com/zeljkofilipin)/[**set-game-rb**](https://github.com/zeljkofilipin/set-game-rb)",
+              "Playing Set game with Ruby and Selenium",
+              "[:arrow_upper_right:](http://filipin.eu/automating-the-set-game)"
+            ],
+            [
+              "2",
+              "[@neektza](https://github.com/neektza)/[**bius_infosystem**](https://github.com/neektza/bius_infosystem)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@elvanja](https://github.com/elvanja)/[**gedankenexperiment**](https://github.com/elvanja/gedankenexperiment)",
+              "various musings about a variety of topics",
+              ""
+            ],
+            [
+              "2",
+              "[@ianic](https://github.com/ianic)/[**minus5_mssql**](https://github.com/ianic/minus5_mssql)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@bruno-](https://github.com/bruno-)/[**easy-chef-rails**](https://github.com/bruno-/easy-chef-rails)",
+              "Easily install Rails server environments with Chef",
+              ""
+            ],
+            [
+              "2",
+              "[@vlado](https://github.com/vlado)/[**interceptor**](https://github.com/vlado/interceptor)",
+              "Rails plugin that enables you to check if some process is running and to send signals to that process",
+              "[:arrow_upper_right:](www.kolodvor.net)"
+            ],
+            [
+              "2",
+              "[@berislavbabic](https://github.com/berislavbabic)/[**Band-notifier**](https://github.com/berislavbabic/Band-notifier)",
+              "Rails application for tracking music gigs for a band, and email notifying members.",
+              ""
+            ],
+            [
+              "2",
+              "[@zmajstor](https://github.com/zmajstor)/[**rails_5_api_react_js**](https://github.com/zmajstor/rails_5_api_react_js)",
+              "Rails 5 alpha API for React.js with Twitter OAuth",
+              "[:arrow_upper_right:](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)"
+            ],
+            [
+              "2",
+              "[@vlado](https://github.com/vlado)/[**spree_shop_socially**](https://github.com/vlado/spree_shop_socially)",
+              "Spree extension for http://shopsocial.ly",
               ""
             ]
           ]
