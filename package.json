@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1220,6 +1221,345 @@
               "[@dpavlin](https://github.com/dpavlin)/[**google-map-tiles**](https://github.com/dpavlin/google-map-tiles)",
               "Google map data layer using custom tiles",
               "[:arrow_upper_right:](http://blog.rot13.org/2011/04/google-map-data-layer-using-custom-tiles.html)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "170",
+              "[@Swader](https://github.com/Swader)/[**nofw**](https://github.com/Swader/nofw)",
+              "A no-framework application skeleton",
+              ""
+            ],
+            [
+              "112",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**Inchoo_Facebook**](https://github.com/ivanweiler/Inchoo_Facebook)",
+              "Facebook Connect Magento Extension",
+              ""
+            ],
+            [
+              "112",
+              "[@btoplak](https://github.com/btoplak)/[**Joomla-Anti-Malware-…**](https://github.com/btoplak/Joomla-Anti-Malware-Scan-Script--JAMSS-)",
+              "a Joomla! and WordPress Security script that automatically scans the Joomla! or Wordpress files for some patterns and \"fingerprints\" of malware, trojans or other injections into PHP code",
+              ""
+            ],
+            [
+              "106",
+              "[@zytzagoo](https://github.com/zytzagoo)/[**smtp-validate-email**](https://github.com/zytzagoo/smtp-validate-email)",
+              "A PHP class for performing email addresses validation via SMTP",
+              ""
+            ],
+            [
+              "50",
+              "[@ihabunek](https://github.com/ihabunek)/[**phormium**](https://github.com/ihabunek/phormium)",
+              "Phormium is a minimal ORM for PHP (which incidentally works with Informix)",
+              ""
+            ],
+            [
+              "50",
+              "[@Swader](https://github.com/Swader)/[**homestead_improved**](https://github.com/Swader/homestead_improved)",
+              "A un upgraded fork of the original Laravel Homestead",
+              ""
+            ],
+            [
+              "47",
+              "[@lecterror](https://github.com/lecterror)/[**cakephp-filter-plugi…**](https://github.com/lecterror/cakephp-filter-plugin)",
+              "A general filtering/search plugin for CakePHP apps",
+              "[:arrow_upper_right:](http://lecterror.com/)"
+            ],
+            [
+              "38",
+              "[@Swader](https://github.com/Swader)/[**autofight**](https://github.com/Swader/autofight)",
+              "A text based extensible \"game\" - an auto-fight script",
+              ""
+            ],
+            [
+              "29",
+              "[@Swader](https://github.com/Swader)/[**diffbot-php-client**](https://github.com/Swader/diffbot-php-client)",
+              "The official Diffbot client library",
+              ""
+            ],
+            [
+              "27",
+              "[@lecterror](https://github.com/lecterror)/[**cakephp-fusion-chart…**](https://github.com/lecterror/cakephp-fusion-charts-plugin)",
+              "A FusionCharts plugin for CakePHP",
+              "[:arrow_upper_right:](http://lecterror.com/)"
+            ],
+            [
+              "25",
+              "[@tomasinchoo](https://github.com/tomasinchoo)/[**Inchoo_InvalidatedBl…**](https://github.com/tomasinchoo/Inchoo_InvalidatedBlockCacheFix)",
+              "",
+              ""
+            ],
+            [
+              "24",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_LoginAsCustom…**](https://github.com/ajzele/Inchoo_LoginAsCustomer)",
+              "Magento extension that enables admin users to login as any customer on the frontend.",
+              ""
+            ],
+            [
+              "19",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**Inchoo_Stripe**](https://github.com/ivanweiler/Inchoo_Stripe)",
+              "Stripe payment gateway Magento extension",
+              ""
+            ],
+            [
+              "18",
+              "[@Swader](https://github.com/Swader)/[**REST**](https://github.com/Swader/REST)",
+              "SitePoint Example Code - Vito Tardia - Full REST API",
+              ""
+            ],
+            [
+              "17",
+              "[@MatejB](https://github.com/MatejB)/[**rim**](https://github.com/MatejB/rim)",
+              "rim - php library to get image types and size of remote images in optimized way",
+              ""
+            ],
+            [
+              "17",
+              "[@Swader](https://github.com/Swader)/[**phalanx**](https://github.com/Swader/phalanx)",
+              "A starter app with Phalcon and Angular.",
+              ""
+            ],
+            [
+              "16",
+              "[@ihabunek](https://github.com/ihabunek)/[**pdf417-php**](https://github.com/ihabunek/pdf417-php)",
+              "A library for encoding and generating PDF417 2D barcodes",
+              ""
+            ],
+            [
+              "14",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_UrlRewriteImp…**](https://github.com/ajzele/Inchoo_UrlRewriteImporter)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_AdminOrderNot…**](https://github.com/ajzele/Inchoo_AdminOrderNotifier)",
+              "Magento extension that enables email notifications towards various emails when customer places the order. Useful when you want your personell notified that some customer just placed the order. Supports transactional email.",
+              ""
+            ],
+            [
+              "11",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Piwik**](https://github.com/ajzele/Inchoo_Piwik)",
+              "Magento extension for Piwik - Open Source Website Analytics Software (http://piwik.org)",
+              ""
+            ],
+            [
+              "10",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_TwitterConnec…**](https://github.com/ajzele/Inchoo_TwitterConnect)",
+              "Magento extension for \"Sign in with Twitter\" aka \"Twitter Connect\". Check https://dev.twitter.com/docs/auth/sign-t… for more details on how \"Sign in with Twitter\" works.",
+              ""
+            ],
+            [
+              "10",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Owa**](https://github.com/ajzele/Inchoo_Owa)",
+              "Magento extension for Open Web Analytics (http://www.openwebanalytics.com)",
+              ""
+            ],
+            [
+              "9",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Dealer**](https://github.com/ajzele/Inchoo_Dealer)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Logger**](https://github.com/ajzele/Inchoo_Logger)",
+              "Read you /var/logs/ from within Magento. Supports API access.",
+              ""
+            ],
+            [
+              "9",
+              "[@ihabunek](https://github.com/ihabunek)/[**isaac**](https://github.com/ihabunek/isaac)",
+              "Save game parser for Binding of Isaac: Rebirth",
+              ""
+            ],
+            [
+              "9",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Fiskalizacija**](https://github.com/ajzele/Inchoo_Fiskalizacija)",
+              "Magento extension for Croatian fiscalization law.",
+              ""
+            ],
+            [
+              "9",
+              "[@Swader](https://github.com/Swader)/[**bitfalls_utils**](https://github.com/Swader/bitfalls_utils)",
+              "A set of helper classes I use in my web projects",
+              ""
+            ],
+            [
+              "8",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**Inchoo_Theme**](https://github.com/ivanweiler/Inchoo_Theme)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@lecterror](https://github.com/lecterror)/[**cakephp-feedback-plu…**](https://github.com/lecterror/cakephp-feedback-plugin)",
+              "Add comments and star ratings to your existing CakePHP applications with ease.",
+              ""
+            ],
+            [
+              "6",
+              "[@Swader](https://github.com/Swader)/[**ciplusplus**](https://github.com/Swader/ciplusplus)",
+              "CodeIgniter with layouting and widget functionality and built in Twitter Bootstrap and HTML5 Boilerplate",
+              ""
+            ],
+            [
+              "5",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_TComPayWay**](https://github.com/ajzele/Inchoo_TComPayWay)",
+              "Magento extension for Croatian T-Com PayWay payment gateway.",
+              ""
+            ],
+            [
+              "5",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**Weiler_FireLogger**](https://github.com/ivanweiler/Weiler_FireLogger)",
+              "Simple Magento FireLogger integration",
+              ""
+            ],
+            [
+              "5",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_AdminTheme**](https://github.com/ajzele/Inchoo_AdminTheme)",
+              "Magento extension. Overrides the default Magento admin theme app/design/adminhtml/default/default with your own theme app/design/adminhtml/default/your-theme-…",
+              ""
+            ],
+            [
+              "5",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_KISSmetrics**](https://github.com/ajzele/Inchoo_KISSmetrics)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Reinvigorate**](https://github.com/ajzele/Inchoo_Reinvigorate)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ajzele](https://github.com/ajzele)/[**Foggyline_Cctoolbar**](https://github.com/ajzele/Foggyline_Cctoolbar)",
+              "This extension will allow you to do slight modifications to catalog toolbar, such as merge/combine \"Sort by\" and \"order\", custom labels for \"Sort by\", etc. This extension was originally built and tested on Magento CE v1.8.1.0.",
+              ""
+            ],
+            [
+              "4",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_MaxOrderAmoun…**](https://github.com/ajzele/Inchoo_MaxOrderAmount)",
+              "Magento extension. Adds the possibility to limit the maximum order amount.",
+              ""
+            ],
+            [
+              "4",
+              "[@ajzele](https://github.com/ajzele)/[**Foggyline_Mailchimp**](https://github.com/ajzele/Foggyline_Mailchimp)",
+              "Light (one mailing list subscribe/unsubscribe with web-hooks) Mailchimp extension for Magento",
+              ""
+            ],
+            [
+              "3",
+              "[@tomislav](https://github.com/tomislav)/[**csquare-php**](https://github.com/tomislav/csquare-php)",
+              "C-square (concise spatial query and representation system) implementation in PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@ajzele](https://github.com/ajzele)/[**Foggyline_Watchdog**](https://github.com/ajzele/Foggyline_Watchdog)",
+              "Configurable Magento v1.x extension for logging user and/or customer actions (frontend and backend).",
+              ""
+            ],
+            [
+              "3",
+              "[@ihabunek](https://github.com/ihabunek)/[**starship**](https://github.com/ihabunek/starship)",
+              "A static site generator in PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@ajzele](https://github.com/ajzele)/[**B05032-Foggyline_Off…**](https://github.com/ajzele/B05032-Foggyline_Office)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_Persona**](https://github.com/ajzele/Inchoo_Persona)",
+              "Magento extension for Mozilla Persona - decentralized and secure authentication system for the web based on the open BrowserID protocol (http://persona.org).",
+              ""
+            ],
+            [
+              "3",
+              "[@tomasinchoo](https://github.com/tomasinchoo)/[**Inchoo_USDisableRegi…**](https://github.com/tomasinchoo/Inchoo_USDisableRegions)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**asciimage-php**](https://github.com/ivanweiler/asciimage-php)",
+              "PHP version of ASCIImage",
+              ""
+            ],
+            [
+              "2",
+              "[@ivanweiler](https://github.com/ivanweiler)/[**Phygments**](https://github.com/ivanweiler/Phygments)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lecterror](https://github.com/lecterror)/[**cakephp-naive-bayes-…**](https://github.com/lecterror/cakephp-naive-bayes-classifier-plugin)",
+              "A CakePHP plugin for text classification",
+              "[:arrow_upper_right:](http://lecterror.com/)"
+            ],
+            [
+              "2",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_FoxMetrics**](https://github.com/ajzele/Inchoo_FoxMetrics)",
+              "Magento extension for FoxMetrics - Customer Analytics and Targeting (http://foxmetrics.com)",
+              ""
+            ],
+            [
+              "2",
+              "[@Swader](https://github.com/Swader)/[**AbbasSuterwala-Drupa…**](https://github.com/Swader/AbbasSuterwala-DrupalShowNodes)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ajzele](https://github.com/ajzele)/[**B05032-Foggyline_Sli…**](https://github.com/ajzele/B05032-Foggyline_Slider)",
+              "Module covering book code",
+              ""
+            ],
+            [
+              "2",
+              "[@ajzele](https://github.com/ajzele)/[**Inchoo_MyCheckOut**](https://github.com/ajzele/Inchoo_MyCheckOut)",
+              "Implementation of PBZ MyCheckOut payment gateway.",
+              ""
+            ],
+            [
+              "2",
+              "[@ihabunek](https://github.com/ihabunek)/[**tactician-pimple**](https://github.com/ihabunek/tactician-pimple)",
+              "Allows lazy loading of Tactician command handlers from a Pimple DI container.",
+              ""
+            ],
+            [
+              "2",
+              "[@ihabunek](https://github.com/ihabunek)/[**phormium-modgen**](https://github.com/ihabunek/phormium-modgen)",
+              "Model class generator for Phormium",
+              ""
+            ],
+            [
+              "2",
+              "[@ajzele](https://github.com/ajzele)/[**B05032-Foggyline_Pay…**](https://github.com/ajzele/B05032-Foggyline_Paybox)",
+              "",
+              ""
             ]
           ]
         }
