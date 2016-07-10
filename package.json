@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -317,6 +318,105 @@
               "2",
               "[@zappan](https://github.com/zappan)/[**mean-boilerplate**](https://github.com/zappan/mean-boilerplate)",
               "MEAN stack boilerplate with build procedures in place",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "905",
+              "[@dmilicic](https://github.com/dmilicic)/[**Android-Clean-Boiler…**](https://github.com/dmilicic/Android-Clean-Boilerplate)",
+              "This is starter template for writing Android apps using Clean architecture",
+              ""
+            ],
+            [
+              "245",
+              "[@dmilicic](https://github.com/dmilicic)/[**android-clean-sample…**](https://github.com/dmilicic/android-clean-sample-app)",
+              "A sample app that showcases our Clean architecture approach to build Android applications.",
+              ""
+            ],
+            [
+              "63",
+              "[@rkovacevic](https://github.com/rkovacevic)/[**JSFBootstrap**](https://github.com/rkovacevic/JSFBootstrap)",
+              "JBoss JSF 2 webapp archetype + Twitter Bootstrap",
+              "[:arrow_upper_right:](http://rkovacevic.github.io/)"
+            ],
+            [
+              "13",
+              "[@lpandzic](https://github.com/lpandzic)/[**junit-bdd**](https://github.com/lpandzic/junit-bdd)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@ilx](https://github.com/ilx)/[**m2e-querydsl**](https://github.com/ilx/m2e-querydsl)",
+              "m2e configurer for querydsl ",
+              "[:arrow_upper_right:](http://ilx.github.com/m2e-querydsl/)"
+            ],
+            [
+              "7",
+              "[@codingdojopula](https://github.com/codingdojopula)/[**gameOfLife**](https://github.com/codingdojopula/gameOfLife)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@mstipanov](https://github.com/mstipanov)/[**niocommunicator**](https://github.com/mstipanov/niocommunicator)",
+              "Java Nio Communicator",
+              ""
+            ],
+            [
+              "3",
+              "[@mstipanov](https://github.com/mstipanov)/[**nioinvoker**](https://github.com/mstipanov/nioinvoker)",
+              "Spring Framework RMI NIO Invoker",
+              ""
+            ],
+            [
+              "3",
+              "[@ilx](https://github.com/ilx)/[**m2e-annotations**](https://github.com/ilx/m2e-annotations)",
+              "m2e configurer for annotation processors (apt)",
+              "[:arrow_upper_right:](http://dl.dropbox.com/u/4367605/m2e-annotations/org.maven.ide.eclipse.annotations.feature-0.0.1-SNAPSHOT-site.zip)"
+            ],
+            [
+              "2",
+              "[@mrPjer](https://github.com/mrPjer)/[**KSET.org-for-Android**](https://github.com/mrPjer/KSET.org-for-Android)",
+              "A native Android client for Klub Studenata Elektrotehnike (KSET)'s webpage",
+              "[:arrow_upper_right:](http://www.kset.org)"
+            ],
+            [
+              "2",
+              "[@jmarkovic](https://github.com/jmarkovic)/[**SupportAnnotationExa…**](https://github.com/jmarkovic/SupportAnnotationExamples)",
+              "Examples for many available annotations in Support Annotation package, complete with comments and javadoc explaining how to use them and when.",
+              ""
+            ],
+            [
+              "2",
+              "[@dmilicic](https://github.com/dmilicic)/[**Android-Bluetooth-Sc…**](https://github.com/dmilicic/Android-Bluetooth-Scanner)",
+              "This is an open source bluetooth scanner for Android. It serves me as a boilerplate for building apps that interact with Bluetooth devices.",
+              ""
+            ],
+            [
+              "2",
+              "[@KarloKnezevic](https://github.com/KarloKnezevic)/[**FuzzyControlSystem**](https://github.com/KarloKnezevic/FuzzyControlSystem)",
+              "Fuzzy, Evolutionary and Neuro-computing. Fuzzy Control Ship System.",
+              ""
+            ],
+            [
+              "2",
+              "[@rkovacevic](https://github.com/rkovacevic)/[**ClasspathUtil**](https://github.com/rkovacevic/ClasspathUtil)",
+              "Utility methods for searching classes in the Java classpath.",
               ""
             ]
           ]
