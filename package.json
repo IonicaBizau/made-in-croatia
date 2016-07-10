@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -931,6 +932,45 @@
               "2",
               "[@mkasner](https://github.com/mkasner)/[**drops**](https://github.com/mkasner/drops)",
               "Write HTML5 applications in Golang",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@jsnajder](https://github.com/jsnajder)/[**genprog**](https://github.com/jsnajder/genprog)",
+              "Genetic programming library",
+              ""
+            ],
+            [
+              "2",
+              "[@jsnajder](https://github.com/jsnajder)/[**hofm**](https://github.com/jsnajder/hofm)",
+              "Higher-order functional morphology",
+              ""
+            ],
+            [
+              "2",
+              "[@vjeranc](https://github.com/vjeranc)/[**moan**](https://github.com/vjeranc/moan)",
+              "Language-agnostic analyzer for positional morphosyntactic tags",
+              ""
+            ],
+            [
+              "2",
+              "[@vjeranc](https://github.com/vjeranc)/[**concraft-hr**](https://github.com/vjeranc/concraft-hr)",
+              "A part-of-speech tagger for Croatian based on the concraft library.",
               ""
             ]
           ]
