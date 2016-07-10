@@ -38,5 +38,290 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-croatia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-croatia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-croatia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "254",
+              "[@zeljkoprsa](https://github.com/zeljkoprsa)/[**Magento-Boilerplate**](https://github.com/zeljkoprsa/Magento-Boilerplate)",
+              "Magento Theme Package based on HTML5 Bolierplate by Paul Irish coupled with CSS3PIE by 327 Creative LLC",
+              "[:arrow_upper_right:](http://zeljkoprsa.com/magento-boilerplate-with-css3pie/ )"
+            ],
+            [
+              "105",
+              "[@silvenon](https://github.com/silvenon)/[**generator-wbp**](https://github.com/silvenon/generator-wbp)",
+              "Scaffold a modern workflow for developing web apps and sites",
+              ""
+            ],
+            [
+              "54",
+              "[@mkozjak](https://github.com/mkozjak)/[**node-telnet-client**](https://github.com/mkozjak/node-telnet-client)",
+              "A simple telnet client for node.js",
+              ""
+            ],
+            [
+              "34",
+              "[@zappan](https://github.com/zappan)/[**fulljs**](https://github.com/zappan/fulljs)",
+              "Backbone.js application example backed by Node.js REST API and MongoDB",
+              ""
+            ],
+            [
+              "23",
+              "[@zappan](https://github.com/zappan)/[**Hello-Backbone-Node-…**](https://github.com/zappan/Hello-Backbone-Node-Sinatra-Mongo)",
+              "Application base for a Backbone.js application backed by Sinatra or Node.js API and MongoDB",
+              ""
+            ],
+            [
+              "17",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2FirstApp**](https://github.com/Gajotres/Ionic2FirstApp)",
+              "This is my first Ionic 2 application",
+              ""
+            ],
+            [
+              "13",
+              "[@dpskvn](https://github.com/dpskvn)/[**ntropy.js**](https://github.com/dpskvn/ntropy.js)",
+              "A random generator (string and number)",
+              "[:arrow_upper_right:](http://www.dinopaskvan.com/ntropy.js/)"
+            ],
+            [
+              "13",
+              "[@silvenon](https://github.com/silvenon)/[**testing-react-and-re…**](https://github.com/silvenon/testing-react-and-redux)",
+              "Code from my blog series.",
+              "[:arrow_upper_right:](http://silvenon.com/testing-react-and-redux)"
+            ],
+            [
+              "12",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicGeolocationDemo**](https://github.com/Gajotres/IonicGeolocationDemo)",
+              "This is Ionic Framework Google Maps demo application",
+              ""
+            ],
+            [
+              "11",
+              "[@zappan](https://github.com/zappan)/[**Orchard.Theme.TheOth…**](https://github.com/zappan/Orchard.Theme.TheOtherSide)",
+              "\"The Other Side\" theme for the Orchard CMS",
+              "[:arrow_upper_right:](http://www.orchardproject.net/gallery/List/Themes/Orchard.Theme.TheOtherSide)"
+            ],
+            [
+              "10",
+              "[@dpskvn](https://github.com/dpskvn)/[**express-sse**](https://github.com/dpskvn/express-sse)",
+              "An Express middleware for quick'n'easy server-sent events.",
+              "[:arrow_upper_right:](https://npmjs.org/package/express-sse)"
+            ],
+            [
+              "10",
+              "[@silvenon](https://github.com/silvenon)/[**jszg-selenium**](https://github.com/silvenon/jszg-selenium)",
+              "A meetup demo: Node.js Selenium testing workflow",
+              ""
+            ],
+            [
+              "8",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2GoogleMapsExam…**](https://github.com/Gajotres/Ionic2GoogleMapsExample)",
+              "This is Ionic2 + Google Maps example",
+              ""
+            ],
+            [
+              "8",
+              "[@pkoretic](https://github.com/pkoretic)/[**koa-static-server**](https://github.com/pkoretic/koa-static-server)",
+              "Static file serving middleware for koa with directory, rewrite and index support",
+              ""
+            ],
+            [
+              "8",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicCarouselDemo**](https://github.com/Gajotres/IonicCarouselDemo)",
+              "This is repository holds a Ionic carousel demo",
+              ""
+            ],
+            [
+              "8",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicNativeAnimation…**](https://github.com/Gajotres/IonicNativeAnimationsDemo)",
+              "This is a demo of Ionic native animations",
+              ""
+            ],
+            [
+              "7",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2RESTHttpExampl…**](https://github.com/Gajotres/Ionic2RESTHttpExample)",
+              "This Example will show you how to make a REST HTTP call with Ionic 2",
+              ""
+            ],
+            [
+              "7",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2FormValidation**](https://github.com/Gajotres/Ionic2FormValidation)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2FirebaseOAuthE…**](https://github.com/Gajotres/Ionic2FirebaseOAuthExample)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@iskugor](https://github.com/iskugor)/[**ZenTi**](https://github.com/iskugor/ZenTi)",
+              "OOP framework for Titanum mobile framework",
+              ""
+            ],
+            [
+              "5",
+              "[@psyburn](https://github.com/psyburn)/[**backbone.listview**](https://github.com/psyburn/backbone.listview)",
+              "A generic list view for Backbone.js applications.",
+              ""
+            ],
+            [
+              "5",
+              "[@mkozjak](https://github.com/mkozjak)/[**koa-cache-lite**](https://github.com/mkozjak/koa-cache-lite)",
+              "Zero-dependency koa router cache",
+              ""
+            ],
+            [
+              "5",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicNativeAudioDemo**](https://github.com/Gajotres/IonicNativeAudioDemo)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2AuthorizationE…**](https://github.com/Gajotres/Ionic2AuthorizationExample)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@zappan](https://github.com/zappan)/[**node-marionette-boil…**](https://github.com/zappan/node-marionette-boilerplate)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@msval](https://github.com/msval)/[**hellocassandrainnode…**](https://github.com/msval/hellocassandrainnodejs)",
+              "Hello world for cassandra database in node.js",
+              ""
+            ],
+            [
+              "3",
+              "[@silvenon](https://github.com/silvenon)/[**zepto-module-demo**](https://github.com/silvenon/zepto-module-demo)",
+              "There are only upsides to converting Zepto into modules",
+              ""
+            ],
+            [
+              "3",
+              "[@dpskvn](https://github.com/dpskvn)/[**mikulas.js**](https://github.com/dpskvn/mikulas.js)",
+              "A Simple JS Clock Lib",
+              "[:arrow_upper_right:](http://www.dinopaskvan.com/mikulas.js/)"
+            ],
+            [
+              "3",
+              "[@silvenon](https://github.com/silvenon)/[**jszg-webpack**](https://github.com/silvenon/jszg-webpack)",
+              "A meetup demo: Unpacking Webpack",
+              ""
+            ],
+            [
+              "3",
+              "[@pkoretic](https://github.com/pkoretic)/[**json_rpc**](https://github.com/pkoretic/json_rpc)",
+              "Fast and lightweight persistent promise based JSON RPC 2.0 client implementation over TCP and Unix socket",
+              ""
+            ],
+            [
+              "3",
+              "[@ibudiselic](https://github.com/ibudiselic)/[**structure.js**](https://github.com/ibudiselic/structure.js)",
+              "JavaScript library of useful data structures",
+              ""
+            ],
+            [
+              "3",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicGoogleMapsExamp…**](https://github.com/Gajotres/IonicGoogleMapsExample)",
+              "",
+              "[:arrow_upper_right:](http://www.gajotres.net)"
+            ],
+            [
+              "2",
+              "[@silvenon](https://github.com/silvenon)/[**cbt-tunnel**](https://github.com/silvenon/cbt-tunnel)",
+              "Create a Local Connection for the CrossBrowserTesting app",
+              "[:arrow_upper_right:](http://crossbrowsertesting.com/faq/how-create-local-connection-command-line)"
+            ],
+            [
+              "2",
+              "[@msval](https://github.com/msval)/[**canvasoilpumpjack**](https://github.com/msval/canvasoilpumpjack)",
+              "HTML5 Canvas Oil Pump Jack",
+              ""
+            ],
+            [
+              "2",
+              "[@dpskvn](https://github.com/dpskvn)/[**simple-hooks-events**](https://github.com/dpskvn/simple-hooks-events)",
+              "A simple library for Hooks",
+              "[:arrow_upper_right:](https://www.npmjs.org/package/simple-hooks-events)"
+            ],
+            [
+              "2",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2Internationali…**](https://github.com/Gajotres/Ionic2InternationalizationExample)",
+              "Ionic2InternationalizationExample",
+              ""
+            ],
+            [
+              "2",
+              "[@perpaer](https://github.com/perpaer)/[**perpaer**](https://github.com/perpaer/perpaer)",
+              "portfolio of mine",
+              ""
+            ],
+            [
+              "2",
+              "[@Gajotres](https://github.com/Gajotres)/[**Ionic2ShareDataExamp…**](https://github.com/Gajotres/Ionic2ShareDataExample)",
+              "Ionic 2 Share Data Example",
+              ""
+            ],
+            [
+              "2",
+              "[@mabasic](https://github.com/mabasic)/[**flasknotes**](https://github.com/mabasic/flasknotes)",
+              "Technology showcase for flask, sqlalchemy, backbone, jade templates, bootstrap and sqlite",
+              ""
+            ],
+            [
+              "2",
+              "[@aerkalov](https://github.com/aerkalov)/[**ebook-web-reader**](https://github.com/aerkalov/ebook-web-reader)",
+              "E-Book Web Reader. Created for Booktype books but can be used separately to show static or books in EPUB format.",
+              "[:arrow_upper_right:](https://github.com/aerkalov/ebook-web-reader/wiki)"
+            ],
+            [
+              "2",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicMotionDetection…**](https://github.com/Gajotres/IonicMotionDetectionDemo)",
+              "This is a demo for ngCordova + Ionic Motion Detection",
+              ""
+            ],
+            [
+              "2",
+              "[@Gajotres](https://github.com/Gajotres)/[**IonicAdMobDemo**](https://github.com/Gajotres/IonicAdMobDemo)",
+              "This is Ionic Framework AdMob demo application",
+              ""
+            ],
+            [
+              "2",
+              "[@zappan](https://github.com/zappan)/[**mean-boilerplate**](https://github.com/zappan/mean-boilerplate)",
+              "MEAN stack boilerplate with build procedures in place",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
