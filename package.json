@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -417,6 +418,231 @@
               "2",
               "[@rkovacevic](https://github.com/rkovacevic)/[**ClasspathUtil**](https://github.com/rkovacevic/ClasspathUtil)",
               "Utility methods for searching classes in the Java classpath.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "153",
+              "[@dajuric](https://github.com/dajuric)/[**dot-imaging**](https://github.com/dajuric/dot-imaging)",
+              "Minimalistic  .NET imaging portable platform",
+              ""
+            ],
+            [
+              "139",
+              "[@dajuric](https://github.com/dajuric)/[**accord-net-extension…**](https://github.com/dajuric/accord-net-extensions)",
+              "Advanced image processing and computer vision algorithms made as fluent extensions and built for portability",
+              ""
+            ],
+            [
+              "69",
+              "[@anakic](https://github.com/anakic)/[**Jot**](https://github.com/anakic/Jot)",
+              "Jot is a library for persisting and applying application data (window locations and sizes, config settings, last entered data e.g. username etc.) in a consistend developer-friendly way.",
+              "[:arrow_upper_right:](http://www.codeproject.com/Articles/475498/Easier-NET-settings)"
+            ],
+            [
+              "16",
+              "[@ShendoXT](https://github.com/ShendoXT)/[**memcardrex**](https://github.com/ShendoXT/memcardrex)",
+              "Advanced PlayStation Memory Card editor",
+              ""
+            ],
+            [
+              "10",
+              "[@dajuric](https://github.com/dajuric)/[**more-collections**](https://github.com/dajuric/more-collections)",
+              "Provides a set of portable collections installable as source files via NuGet.",
+              ""
+            ],
+            [
+              "10",
+              "[@holisticware-admin](https://github.com/holisticware-admin)/[**MonoVersal.AForgeNET**](https://github.com/holisticware-admin/MonoVersal.AForgeNET)",
+              "Monoversal (universal) port of AForge.NET library to Windows Phone, Mono for Android and MonoTouch",
+              ""
+            ],
+            [
+              "9",
+              "[@moljac](https://github.com/moljac)/[**MonoMobile.Dialog**](https://github.com/moljac/MonoMobile.Dialog)",
+              "MonoTouch.Dialog and MonoDroid.Dialog merged",
+              ""
+            ],
+            [
+              "8",
+              "[@moljac](https://github.com/moljac)/[**MonoMobile.Google.GD…**](https://github.com/moljac/MonoMobile.Google.GData)",
+              "Google.GData port for mobile platforms",
+              ""
+            ],
+            [
+              "8",
+              "[@cartman300](https://github.com/cartman300)/[**SFMLTextBuffer**](https://github.com/cartman300/SFMLTextBuffer)",
+              "TextBuffers for SFML",
+              ""
+            ],
+            [
+              "8",
+              "[@spideyfusion](https://github.com/spideyfusion)/[**akiba**](https://github.com/spideyfusion/akiba)",
+              "A small utility for adjusting the resolution and framerate in AKIBA'S TRIP.",
+              ""
+            ],
+            [
+              "7",
+              "[@cartman300](https://github.com/cartman300)/[**gluac**](https://github.com/cartman300/gluac)",
+              "GMod lua equivalent of luac",
+              ""
+            ],
+            [
+              "7",
+              "[@cartman300](https://github.com/cartman300)/[**Hackery**](https://github.com/cartman300/Hackery)",
+              "Making the .NET runtime do stuff it's not even supposed to do!",
+              ""
+            ],
+            [
+              "7",
+              "[@filipkristo](https://github.com/filipkristo)/[**LocalPasswords**](https://github.com/filipkristo/LocalPasswords)",
+              "Windows 10 UWP password manager",
+              ""
+            ],
+            [
+              "6",
+              "[@tpetrina](https://github.com/tpetrina)/[**wp8-helpers**](https://github.com/tpetrina/wp8-helpers)",
+              "Helper classes and asemblies for Windows Phone 8",
+              ""
+            ],
+            [
+              "6",
+              "[@cartman300](https://github.com/cartman300)/[**Peeper**](https://github.com/cartman300/Peeper)",
+              "A screen recording software that doesn't spy on you (probably)!",
+              ""
+            ],
+            [
+              "6",
+              "[@moljac](https://github.com/moljac)/[**Samples.Xamarin.Form…**](https://github.com/moljac/Samples.Xamarin.Forms)",
+              "Samples.Xamarin.Forms",
+              ""
+            ],
+            [
+              "5",
+              "[@anakic](https://github.com/anakic)/[**Thingie.Tracking**](https://github.com/anakic/Thingie.Tracking)",
+              "A library for persisting and applying object settings (i.e. window locations and sizes, user preferences, settings...). An alternative approach to using .settings and .config files.",
+              "[:arrow_upper_right:](http://www.codeproject.com/Articles/475498/Easier-NET-settings)"
+            ],
+            [
+              "5",
+              "[@dsoronda](https://github.com/dsoronda)/[**AspNet.Identity.Dapp…**](https://github.com/dsoronda/AspNet.Identity.Dapper)",
+              "AspNet.Identity implemented using Dapper micro ORM",
+              ""
+            ],
+            [
+              "5",
+              "[@tpetrina](https://github.com/tpetrina)/[**FastSharp**](https://github.com/tpetrina/FastSharp)",
+              "A new interactive C# editor designed for quick prototyping in mind.",
+              ""
+            ],
+            [
+              "4",
+              "[@moljac](https://github.com/moljac)/[**Xamarin.UberTesters**](https://github.com/moljac/Xamarin.UberTesters)",
+              "Xamarin.UberTesters SDK bindings + upload APi",
+              ""
+            ],
+            [
+              "3",
+              "[@longspear](https://github.com/longspear)/[**blaze-server**](https://github.com/longspear/blaze-server)",
+              "Battlefield 3 LAN emulator",
+              ""
+            ],
+            [
+              "3",
+              "[@moljac](https://github.com/moljac)/[**System.Diagnostics**](https://github.com/moljac/System.Diagnostics)",
+              "System.Diagnostics when missing ... (some MT and MA projects)",
+              ""
+            ],
+            [
+              "3",
+              "[@khorvat](https://github.com/khorvat)/[**DIPracticeLayeredArc…**](https://github.com/khorvat/DIPracticeLayeredArchitecture)",
+              "Layered Architecture - Dependency Injection in Practice",
+              ""
+            ],
+            [
+              "3",
+              "[@moljac](https://github.com/moljac)/[**MonoMobile.SharpSNMP**](https://github.com/moljac/MonoMobile.SharpSNMP)",
+              "SharpSNMP port for MonoMobile (MonoTOuch and MonoForAndroid)",
+              ""
+            ],
+            [
+              "3",
+              "[@moljac](https://github.com/moljac)/[**MonoVersalSharpSeria…**](https://github.com/moljac/MonoVersalSharpSerializer)",
+              "SharpSerializer ports to MonoForAndroid, MonoTouch, WindowsPhone",
+              ""
+            ],
+            [
+              "3",
+              "[@cartman300](https://github.com/cartman300)/[**RuntimePInvoke**](https://github.com/cartman300/RuntimePInvoke)",
+              "PInvoke at runtime for .NET",
+              ""
+            ],
+            [
+              "3",
+              "[@cartman300](https://github.com/cartman300)/[**gmsv_gsharp_win32**](https://github.com/cartman300/gmsv_gsharp_win32)",
+              "Garry's Mod pure C# binary module proof of concept.",
+              ""
+            ],
+            [
+              "3",
+              "[@moljac](https://github.com/moljac)/[**HolisticWare.IDE**](https://github.com/moljac/HolisticWare.IDE)",
+              "HolisticWare tools (item and project templates, code snippets/templates) for Visual Studio and Xamarin Studio",
+              ""
+            ],
+            [
+              "2",
+              "[@vjekob](https://github.com/vjekob)/[**NAV-Assembly-Resolve…**](https://github.com/vjekob/NAV-Assembly-Resolver)",
+              "Assembly Resolver utility for Microsoft Dynamics NAV",
+              ""
+            ],
+            [
+              "2",
+              "[@gboduljak](https://github.com/gboduljak)/[**Android-ToolkitV2**](https://github.com/gboduljak/Android-ToolkitV2)",
+              "Android Toolkit is an app for an Android device managment and modification. It has built in ADB Tools, Fastboot Tools and custom recovery flasher and much more. There is also support for remote ADB control. Version V2 is being written in MVVM for perfomance, architecture and code improvement .",
+              ""
+            ],
+            [
+              "2",
+              "[@cartman300](https://github.com/cartman300)/[**NotFuckingMinecraft**](https://github.com/cartman300/NotFuckingMinecraft)",
+              "Voxel engine thingy done in C# and OpenTK and stuff.",
+              ""
+            ],
+            [
+              "2",
+              "[@tpetrina](https://github.com/tpetrina)/[**ImagingApps**](https://github.com/tpetrina/ImagingApps)",
+              "Applications that use Nokia Imaging SDK and/or work with images",
+              ""
+            ],
+            [
+              "2",
+              "[@cartman300](https://github.com/cartman300)/[**Lua.NET**](https://github.com/cartman300/Lua.NET)",
+              "Lua(JIT) for .NET using P/Invoke",
+              ""
+            ],
+            [
+              "2",
+              "[@moljac](https://github.com/moljac)/[**MonoTouch.Samples**](https://github.com/moljac/MonoTouch.Samples)",
+              "MonoTouch Samples",
+              ""
+            ],
+            [
+              "2",
+              "[@tpetrina](https://github.com/tpetrina)/[**wp-helpers**](https://github.com/tpetrina/wp-helpers)",
+              "Collection of various helpers for Windows Phone",
               ""
             ]
           ]
