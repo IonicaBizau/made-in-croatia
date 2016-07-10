@@ -60,7 +60,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -1969,6 +1970,87 @@
               "2",
               "[@vlado](https://github.com/vlado)/[**spree_shop_socially**](https://github.com/vlado/spree_shop_socially)",
               "Spree extension for http://shopsocial.ly",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "55",
+              "[@spark-in-action](https://github.com/spark-in-action)/[**first-edition**](https://github.com/spark-in-action/first-edition)",
+              "The book's repo",
+              "[:arrow_upper_right:](http://www.manning.com/bonaci/)"
+            ],
+            [
+              "31",
+              "[@melezov](https://github.com/melezov)/[**scala-uuid**](https://github.com/melezov/scala-uuid)",
+              "An optimized Scala wrapper for java.util.UUID - inspired by scala-time",
+              ""
+            ],
+            [
+              "7",
+              "[@denibertovic](https://github.com/denibertovic)/[**scala-oauth2**](https://github.com/denibertovic/scala-oauth2)",
+              "scala-oauth2",
+              ""
+            ],
+            [
+              "6",
+              "[@melezov](https://github.com/melezov)/[**pgscala**](https://github.com/melezov/pgscala)",
+              "PostgreSQL JDBC wrapper for Scala",
+              ""
+            ],
+            [
+              "4",
+              "[@mentat-labs](https://github.com/mentat-labs)/[**sbt-nsa**](https://github.com/mentat-labs/sbt-nsa)",
+              "No Strings Attached - Strongly typed compiler options for SBT",
+              ""
+            ],
+            [
+              "4",
+              "[@melezov](https://github.com/melezov)/[**etb**](https://github.com/melezov/etb)",
+              "Some commonly used utilities for scala.",
+              ""
+            ],
+            [
+              "2",
+              "[@cehtunger](https://github.com/cehtunger)/[**mailer**](https://github.com/cehtunger/mailer)",
+              "Scala + Lift framework for sending emails",
+              ""
+            ],
+            [
+              "2",
+              "[@tferega](https://github.com/tferega)/[**format-nazy**](https://github.com/tferega/format-nazy)",
+              "Tabs must die.",
+              ""
+            ],
+            [
+              "2",
+              "[@sahataba](https://github.com/sahataba)/[**scalajs-react**](https://github.com/sahataba/scalajs-react)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@melezov](https://github.com/melezov)/[**xsbt-batsh**](https://github.com/melezov/xsbt-batsh)",
+              "XSBT Batch and Bash creator",
+              ""
+            ],
+            [
+              "2",
+              "[@melezov](https://github.com/melezov)/[**xsbt-pause**](https://github.com/melezov/xsbt-pause)",
+              "Tiny XSBT plugin which adds pause functionality",
               ""
             ]
           ]
