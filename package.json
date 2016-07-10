@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -2103,6 +2104,33 @@
               "2",
               "[@fffilo](https://github.com/fffilo)/[**gitsound**](https://github.com/fffilo/gitsound)",
               "Play sound on git command",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "90",
+              "[@marinbenc](https://github.com/marinbenc)/[**ReactiveWeatherExamp…**](https://github.com/marinbenc/ReactiveWeatherExample)",
+              "A simple iOS weather app using the MVVM pattern and RxSwift framework.",
+              ""
+            ],
+            [
+              "2",
+              "[@marinbenc](https://github.com/marinbenc)/[**Starscream-RxSwift**](https://github.com/marinbenc/Starscream-RxSwift)",
+              "A lightweight extension to Starscream to suscribe to websocket events with RxSwift",
               ""
             ]
           ]
