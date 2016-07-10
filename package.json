@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1559,6 +1560,237 @@
               "2",
               "[@ajzele](https://github.com/ajzele)/[**B05032-Foggyline_Pay…**](https://github.com/ajzele/B05032-Foggyline_Paybox)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "541",
+              "[@aljosa](https://github.com/aljosa)/[**django-tinymce**](https://github.com/aljosa/django-tinymce)",
+              "TinyMCE integration for Django",
+              "[:arrow_upper_right:](http://django-tinymce.readthedocs.org/)"
+            ],
+            [
+              "238",
+              "[@tkrajina](https://github.com/tkrajina)/[**gpxpy**](https://github.com/tkrajina/gpxpy)",
+              "gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.",
+              ""
+            ],
+            [
+              "197",
+              "[@senko](https://github.com/senko)/[**python-video-convert…**](https://github.com/senko/python-video-converter)",
+              "Python Video Converter (ffmpeg wrapper)",
+              "[:arrow_upper_right:](http://vault.senko.net/components/python-video-converter/doc/index.html)"
+            ],
+            [
+              "174",
+              "[@senko](https://github.com/senko)/[**tornado-proxy**](https://github.com/senko/tornado-proxy)",
+              "Asyncronous HTTP proxy with tunnelling (CONNECT) support",
+              ""
+            ],
+            [
+              "97",
+              "[@senko](https://github.com/senko)/[**dj-skeletor**](https://github.com/senko/dj-skeletor)",
+              "A skeleton Django project",
+              ""
+            ],
+            [
+              "67",
+              "[@tkrajina](https://github.com/tkrajina)/[**srtm.py**](https://github.com/tkrajina/srtm.py)",
+              "Geo elevation data parser for \"The Shuttle Radar Topography Mission\" data",
+              ""
+            ],
+            [
+              "53",
+              "[@tkrajina](https://github.com/tkrajina)/[**git-plus**](https://github.com/tkrajina/git-plus)",
+              "Git utilities",
+              ""
+            ],
+            [
+              "43",
+              "[@LukaSikic](https://github.com/LukaSikic)/[**HaCoder.py**](https://github.com/LukaSikic/HaCoder.py)",
+              "FUD Backdoor Generator / Remote Administration Tool",
+              ""
+            ],
+            [
+              "12",
+              "[@tkrajina](https://github.com/tkrajina)/[**cartesius**](https://github.com/tkrajina/cartesius)",
+              "Simple python library for drawing coordinate system images and graphs",
+              ""
+            ],
+            [
+              "9",
+              "[@senko](https://github.com/senko)/[**python-logger**](https://github.com/senko/python-logger)",
+              "A convenience wrapper for Python's logging module",
+              "[:arrow_upper_right:](http://senko.net/en/)"
+            ],
+            [
+              "9",
+              "[@tkrajina](https://github.com/tkrajina)/[**multi-git**](https://github.com/tkrajina/multi-git)",
+              "git plugin that enables you to execute a single git command on multiple repositories",
+              ""
+            ],
+            [
+              "9",
+              "[@aljosa](https://github.com/aljosa)/[**django-autoslug-fiel…**](https://github.com/aljosa/django-autoslug-field)",
+              "AutoSlugField for Django based on django-extensions AutoSlugField, adds option to track parent field for slug.",
+              ""
+            ],
+            [
+              "8",
+              "[@senko](https://github.com/senko)/[**python-cli-runner**](https://github.com/senko/python-cli-runner)",
+              "Command line runner wrapper for Python",
+              "[:arrow_upper_right:](http://senko.net/en/)"
+            ],
+            [
+              "5",
+              "[@dinoperovic](https://github.com/dinoperovic)/[**django-shop-catalog**](https://github.com/dinoperovic/django-shop-catalog)",
+              "Catalog app for django SHOP",
+              ""
+            ],
+            [
+              "5",
+              "[@tkrajina](https://github.com/tkrajina)/[**echo-http-requests**](https://github.com/tkrajina/echo-http-requests)",
+              "GoogleAppEngine app that can be used to test http requests expected on a predefined url when you don't have a publicly available IP address. It is available on http://echo-http-requests.appspot.com",
+              ""
+            ],
+            [
+              "5",
+              "[@dkorunic](https://github.com/dkorunic)/[**rpi-home-sensors**](https://github.com/dkorunic/rpi-home-sensors)",
+              "Raspberry Pi temperature, humidity and pressure graphing and storing",
+              ""
+            ],
+            [
+              "5",
+              "[@modulec](https://github.com/modulec)/[**aptop**](https://github.com/modulec/aptop)",
+              "Apache Top like cli program",
+              ""
+            ],
+            [
+              "4",
+              "[@dkorunic](https://github.com/dkorunic)/[**simple-dns-ids**](https://github.com/dkorunic/simple-dns-ids)",
+              "Yet Another Simple DNS IDS System",
+              ""
+            ],
+            [
+              "4",
+              "[@tkrajina](https://github.com/tkrajina)/[**Save-layers-as-image…**](https://github.com/tkrajina/Save-layers-as-images-in-GIMP)",
+              "GIMP plugin to save layers as images in GIMP",
+              ""
+            ],
+            [
+              "4",
+              "[@aljosa](https://github.com/aljosa)/[**django-verbatim**](https://github.com/aljosa/django-verbatim)",
+              "Django template block tag which renders template syntax characters within the block as normal text.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/django-verbatim/)"
+            ],
+            [
+              "4",
+              "[@dinoperovic](https://github.com/dinoperovic)/[**djangocms-blogit**](https://github.com/dinoperovic/djangocms-blogit)",
+              "Simple django-cms blog app",
+              ""
+            ],
+            [
+              "3",
+              "[@aljosa](https://github.com/aljosa)/[**django-tinymce-photo…**](https://github.com/aljosa/django-tinymce-photologue)",
+              "this project is DEAD so don't use it, something better is in the works",
+              ""
+            ],
+            [
+              "3",
+              "[@aljosa](https://github.com/aljosa)/[**django-jquery**](https://github.com/aljosa/django-jquery)",
+              "Django app - bundles jQuery for django-staticfiles",
+              ""
+            ],
+            [
+              "3",
+              "[@corazza](https://github.com/corazza)/[**Graviton**](https://github.com/corazza/Graviton)",
+              "n-body simulator in Python",
+              "[:arrow_upper_right:](http://jancorazza.com/2013/03/24/graviton-has-been-finished/)"
+            ],
+            [
+              "3",
+              "[@corazza](https://github.com/corazza)/[**optimize-glass**](https://github.com/corazza/optimize-glass)",
+              "Optimization of glass shapes (Petnica International project)",
+              "[:arrow_upper_right:](http://jancorazza.com/2015/08/17/petnica-international-and-optimizing-glass-shapes/)"
+            ],
+            [
+              "3",
+              "[@tkrajina](https://github.com/tkrajina)/[**gaeutils**](https://github.com/tkrajina/gaeutils)",
+              "Utility for GoogleAppEngine",
+              ""
+            ],
+            [
+              "2",
+              "[@dinoperovic](https://github.com/dinoperovic)/[**djangocms-skeletor**](https://github.com/dinoperovic/djangocms-skeletor)",
+              "Boilerplate django CMS project setup",
+              ""
+            ],
+            [
+              "2",
+              "[@aljosa](https://github.com/aljosa)/[**django-facebook-exte…**](https://github.com/aljosa/django-facebook-extensions)",
+              "Django application with various extensions targeting Facebook APIs",
+              ""
+            ],
+            [
+              "2",
+              "[@aljosa](https://github.com/aljosa)/[**django-treebeard-ext…**](https://github.com/aljosa/django-treebeard-extensions)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dperetin](https://github.com/dperetin)/[**Nessus-XMLRPC**](https://github.com/dperetin/Nessus-XMLRPC)",
+              "Nessus XMLRPC Python Module and CLI",
+              ""
+            ],
+            [
+              "2",
+              "[@aljosa](https://github.com/aljosa)/[**muchi.me**](https://github.com/aljosa/muchi.me)",
+              "muchi.me - api kod",
+              ""
+            ],
+            [
+              "2",
+              "[@senko](https://github.com/senko)/[**pcss**](https://github.com/senko/pcss)",
+              "The Python CSS preprocessor",
+              ""
+            ],
+            [
+              "2",
+              "[@tkrajina](https://github.com/tkrajina)/[**cmd-tools**](https://github.com/tkrajina/cmd-tools)",
+              "My personal utility command line tools",
+              ""
+            ],
+            [
+              "2",
+              "[@lpredova](https://github.com/lpredova)/[**pybookie**](https://github.com/lpredova/pybookie)",
+              "Helper tool for betting on football matches based on multi agent approach",
+              ""
+            ],
+            [
+              "2",
+              "[@senko](https://github.com/senko)/[**googtext**](https://github.com/senko/googtext)",
+              "Translate .po files using Google Translate",
+              "[:arrow_upper_right:](http://senko.net/services/googtext/)"
+            ],
+            [
+              "2",
+              "[@tkrajina](https://github.com/tkrajina)/[**simple-py-nn**](https://github.com/tkrajina/simple-py-nn)",
+              "Hopfield neural network in python. This is a plain rewrite of the algorithm in Mark Thompson book JavaAI (http://www.markwatson.com/opencontent/)… Just for testing purposes.",
               ""
             ]
           ]
