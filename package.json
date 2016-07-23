@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-croatia#readme",
   "blah": {
+    "title": "Made in Croatia",
     "installation": [
       {
         "h2": "Contents"
