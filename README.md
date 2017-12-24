@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -30,6 +31,7 @@
  - [TeX](#tex)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 254 | [@zeljkoprsa](https://github.com/zeljkoprsa)/[**Magento-Boilerplate**](https://github.com/zeljkoprsa/Magento-Boilerplate) | Magento Theme Package based on HTML5 Bolierplate by Paul Irish coupled with CSS3PIE by 327 Creative LLC | [:arrow_upper_right:](http://zeljkoprsa.com/magento-boilerplate-with-css3pie/ )
@@ -75,7 +77,9 @@
 2 | [@Gajotres](https://github.com/Gajotres)/[**IonicMotionDetection…**](https://github.com/Gajotres/IonicMotionDetectionDemo) | This is a demo for ngCordova + Ionic Motion Detection |
 2 | [@Gajotres](https://github.com/Gajotres)/[**IonicAdMobDemo**](https://github.com/Gajotres/IonicAdMobDemo) | This is Ionic Framework AdMob demo application |
 2 | [@zappan](https://github.com/zappan)/[**mean-boilerplate**](https://github.com/zappan/mean-boilerplate) | MEAN stack boilerplate with build procedures in place |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 905 | [@dmilicic](https://github.com/dmilicic)/[**Android-Clean-Boiler…**](https://github.com/dmilicic/Android-Clean-Boilerplate) | This is starter template for writing Android apps using Clean architecture |
@@ -92,7 +96,9 @@
 2 | [@dmilicic](https://github.com/dmilicic)/[**Android-Bluetooth-Sc…**](https://github.com/dmilicic/Android-Bluetooth-Scanner) | This is an open source bluetooth scanner for Android. It serves me as a boilerplate for building apps that interact with Bluetooth devices. |
 2 | [@KarloKnezevic](https://github.com/KarloKnezevic)/[**FuzzyControlSystem**](https://github.com/KarloKnezevic/FuzzyControlSystem) | Fuzzy, Evolutionary and Neuro-computing. Fuzzy Control Ship System. |
 2 | [@rkovacevic](https://github.com/rkovacevic)/[**ClasspathUtil**](https://github.com/rkovacevic/ClasspathUtil) | Utility methods for searching classes in the Java classpath. |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 153 | [@dajuric](https://github.com/dajuric)/[**dot-imaging**](https://github.com/dajuric/dot-imaging) | Minimalistic  .NET imaging portable platform |
@@ -130,12 +136,16 @@
 2 | [@cartman300](https://github.com/cartman300)/[**Lua.NET**](https://github.com/cartman300/Lua.NET) | Lua(JIT) for .NET using P/Invoke |
 2 | [@moljac](https://github.com/moljac)/[**MonoTouch.Samples**](https://github.com/moljac/MonoTouch.Samples) | MonoTouch Samples |
 2 | [@tpetrina](https://github.com/tpetrina)/[**wp-helpers**](https://github.com/tpetrina/wp-helpers) | Collection of various helpers for Windows Phone |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 64 | [@marioloncarek](https://github.com/marioloncarek)/[**megamenu-js**](https://github.com/marioloncarek/megamenu-js) | Last responsive megamenu you'll ever need |
 7 | [@marioloncarek](https://github.com/marioloncarek)/[**responsive-overlay-m…**](https://github.com/marioloncarek/responsive-overlay-menu) | Framework for making responsive overlay menus |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 54 | [@loboris](https://github.com/loboris)/[**OrangePI-Kernel**](https://github.com/loboris/OrangePI-Kernel) |  |
@@ -149,7 +159,9 @@
 2 | [@fergy](https://github.com/fergy)/[**kernel_htc_mtk**](https://github.com/fergy/kernel_htc_mtk) |  |
 2 | [@dmarion](https://github.com/dmarion)/[**xnu**](https://github.com/dmarion/xnu) | Apple Darwin xnu Kernel | [:arrow_upper_right:](http://www.opensource.apple.com/)
 2 | [@dmarion](https://github.com/dmarion)/[**flash32w**](https://github.com/dmarion/flash32w) | Flash tool for STM32W based boards |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10 | [@antrad](https://github.com/antrad)/[**If_Quake_2_Was_2D**](https://github.com/antrad/If_Quake_2_Was_2D) | A Quake 2D demo I made in 2012 using MUG engine |
@@ -160,7 +172,9 @@
 2 | [@khrvati](https://github.com/khrvati)/[**nao-object-gesture**](https://github.com/khrvati/nao-object-gesture) |  |
 2 | [@srdanrasic](https://github.com/srdanrasic)/[**OpenCLWrapper**](https://github.com/srdanrasic/OpenCLWrapper) | A simple OpenCL Wrapper created for a seminar project. |
 2 | [@krofna](https://github.com/krofna)/[**Warrior-of-Dreamworl…**](https://github.com/krofna/Warrior-of-Dreamworld-r3) |  |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 55 | [@justpinegames](https://github.com/justpinegames)/[**QuadtreeSprite-Exten…**](https://github.com/justpinegames/QuadtreeSprite-Extension) | QuadtreeSprite extensions for Starling. Enables efficient handling of large number of children DisplayObjects. |
@@ -168,11 +182,15 @@
 10 | [@isBatak](https://github.com/isBatak)/[**LocaleManager**](https://github.com/isBatak/LocaleManager) |  |
 7 | [@justpinegames](https://github.com/justpinegames)/[**Modi**](https://github.com/justpinegames/Modi) | AS3 MVC model library for defining application data with serialization and observing. |
 3 | [@Vj3k0](https://github.com/Vj3k0)/[**robotlegs-extensions…**](https://github.com/Vj3k0/robotlegs-extensions-starling) | A set of extensions for Robotlegs 2 to support usage with the Starling framework. |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@srolija](https://github.com/srolija)/[**node-passkit**](https://github.com/srolija/node-passkit) | Passbook passes with PassKit (http://www.passkit.com) API made easy |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 35 | [@minus5](https://github.com/minus5)/[**gofreetds**](https://github.com/minus5/gofreetds) | Go Sql Server database driver. |
@@ -180,14 +198,18 @@
 3 | [@stratoberry](https://github.com/stratoberry)/[**go-gpsd**](https://github.com/stratoberry/go-gpsd) | GPSD client for Go. |
 2 | [@vedranvuk](https://github.com/vedranvuk)/[**strings**](https://github.com/vedranvuk/strings) | Additional string parsing functions for golang |
 2 | [@mkasner](https://github.com/mkasner)/[**drops**](https://github.com/mkasner/drops) | Write HTML5 applications in Golang |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@jsnajder](https://github.com/jsnajder)/[**genprog**](https://github.com/jsnajder/genprog) | Genetic programming library |
 2 | [@jsnajder](https://github.com/jsnajder)/[**hofm**](https://github.com/jsnajder/hofm) | Higher-order functional morphology |
 2 | [@vjeranc](https://github.com/vjeranc)/[**moan**](https://github.com/vjeranc/moan) | Language-agnostic analyzer for positional morphosyntactic tags |
 2 | [@vjeranc](https://github.com/vjeranc)/[**concraft-hr**](https://github.com/vjeranc/concraft-hr) | A part-of-speech tagger for Croatian based on the concraft library. |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 323 | [@lukagabric](https://github.com/lukagabric)/[**LASIImageView**](https://github.com/lukagabric/LASIImageView) | iOS UIImageView subclass - download image with different progress indicators | [:arrow_upper_right:](http://lukagabric.com/lasiimageview-download-image-with-progress-indicator/)
@@ -210,7 +232,9 @@
 5 | [@brbulic](https://github.com/brbulic)/[**TracerouteTester**](https://github.com/brbulic/TracerouteTester) | A simple iOS app with support to traceroute. |
 3 | [@lukagabric](https://github.com/lukagabric)/[**LTranslationsControl…**](https://github.com/lukagabric/LTranslationsController) | iOS Translations Controller handles application localization with remote localization files. |
 2 | [@lukagabric](https://github.com/lukagabric)/[**LAbstractParser**](https://github.com/lukagabric/LAbstractParser) | iOS Abstract Parser | [:arrow_upper_right:](http://lukagabric.com/abstract-xml-parser-labstractparser/)
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 38 | [@dpavlin](https://github.com/dpavlin)/[**perl-cwmp**](https://github.com/dpavlin/perl-cwmp) | Perl ACS server implementing CWMP protocol to manage CPE clients | [:arrow_upper_right:](http://blog.rot13.org/perl-cwmp/)
@@ -229,7 +253,9 @@
 3 | [@dpavlin](https://github.com/dpavlin)/[**MojoX-Gearman**](https://github.com/dpavlin/MojoX-Gearman) | experimental Gearman support for Mojolicious |
 2 | [@dpavlin](https://github.com/dpavlin)/[**sql-sitemap**](https://github.com/dpavlin/sql-sitemap) | Create (huge) sitemap for web crawlers using SQL queries |
 2 | [@dpavlin](https://github.com/dpavlin)/[**google-map-tiles**](https://github.com/dpavlin/google-map-tiles) | Google map data layer using custom tiles | [:arrow_upper_right:](http://blog.rot13.org/2011/04/google-map-data-layer-using-custom-tiles.html)
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 170 | [@Swader](https://github.com/Swader)/[**nofw**](https://github.com/Swader/nofw) | A no-framework application skeleton |
@@ -286,7 +312,9 @@
 2 | [@ihabunek](https://github.com/ihabunek)/[**tactician-pimple**](https://github.com/ihabunek/tactician-pimple) | Allows lazy loading of Tactician command handlers from a Pimple DI container. |
 2 | [@ihabunek](https://github.com/ihabunek)/[**phormium-modgen**](https://github.com/ihabunek/phormium-modgen) | Model class generator for Phormium |
 2 | [@ajzele](https://github.com/ajzele)/[**B05032-Foggyline_Pay…**](https://github.com/ajzele/B05032-Foggyline_Paybox) |  |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 541 | [@aljosa](https://github.com/aljosa)/[**django-tinymce**](https://github.com/aljosa/django-tinymce) | TinyMCE integration for Django | [:arrow_upper_right:](http://django-tinymce.readthedocs.org/)
@@ -325,7 +353,9 @@
 2 | [@lpredova](https://github.com/lpredova)/[**pybookie**](https://github.com/lpredova/pybookie) | Helper tool for betting on football matches based on multi agent approach |
 2 | [@senko](https://github.com/senko)/[**googtext**](https://github.com/senko/googtext) | Translate .po files using Google Translate | [:arrow_upper_right:](http://senko.net/services/googtext/)
 2 | [@tkrajina](https://github.com/tkrajina)/[**simple-py-nn**](https://github.com/tkrajina/simple-py-nn) | Hopfield neural network in python. This is a plain rewrite of the algorithm in Mark Thompson book JavaAI (http://www.markwatson.com/opencontent/)… Just for testing purposes. |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 218 | [@vlado](https://github.com/vlado)/[**rails_db_info**](https://github.com/vlado/rails_db_info) | Rails engine which will give you a quick display of your database schema and contents for reference |
@@ -355,7 +385,9 @@
 2 | [@berislavbabic](https://github.com/berislavbabic)/[**Band-notifier**](https://github.com/berislavbabic/Band-notifier) | Rails application for tracking music gigs for a band, and email notifying members. |
 2 | [@zmajstor](https://github.com/zmajstor)/[**rails_5_api_react_js**](https://github.com/zmajstor/rails_5_api_react_js) | Rails 5 alpha API for React.js with Twitter OAuth | [:arrow_upper_right:](http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/)
 2 | [@vlado](https://github.com/vlado)/[**spree_shop_socially**](https://github.com/vlado/spree_shop_socially) | Spree extension for http://shopsocial.ly |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 55 | [@spark-in-action](https://github.com/spark-in-action)/[**first-edition**](https://github.com/spark-in-action/first-edition) | The book's repo | [:arrow_upper_right:](http://www.manning.com/bonaci/)
@@ -369,7 +401,9 @@
 2 | [@sahataba](https://github.com/sahataba)/[**scalajs-react**](https://github.com/sahataba/scalajs-react) |  |
 2 | [@melezov](https://github.com/melezov)/[**xsbt-batsh**](https://github.com/melezov/xsbt-batsh) | XSBT Batch and Bash creator |
 2 | [@melezov](https://github.com/melezov)/[**xsbt-pause**](https://github.com/melezov/xsbt-pause) | Tiny XSBT plugin which adds pause functionality |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@fffilo](https://github.com/fffilo)/[**ubuntu-after-install**](https://github.com/fffilo/ubuntu-after-install) | Execute bash scripts after fresh Ubuntu install |
@@ -378,16 +412,21 @@
 3 | [@fffilo](https://github.com/fffilo)/[**vasite**](https://github.com/fffilo/vasite) | Virtual machine for web development |
 2 | [@akrasic](https://github.com/akrasic)/[**i3-config**](https://github.com/akrasic/i3-config) | i3-configuration files |
 2 | [@fffilo](https://github.com/fffilo)/[**gitsound**](https://github.com/fffilo/gitsound) | Play sound on git command |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 90 | [@marinbenc](https://github.com/marinbenc)/[**ReactiveWeatherExamp…**](https://github.com/marinbenc/ReactiveWeatherExample) | A simple iOS weather app using the MVVM pattern and RxSwift framework. |
 2 | [@marinbenc](https://github.com/marinbenc)/[**Starscream-RxSwift**](https://github.com/marinbenc/Starscream-RxSwift) | A lightweight extension to Starscream to suscribe to websocket events with RxSwift |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@fer-ppj](https://github.com/fer-ppj)/[**ppj-labosi**](https://github.com/fer-ppj/ppj-labosi) | Laboratorijske vježbe iz predmeta Prevođenje programskih jezika |
 3 | [@fer-ppj](https://github.com/fer-ppj)/[**ppj-upute**](https://github.com/fer-ppj/ppj-upute) | Informacije o predmetu Prevođenje programskih jezika | [:arrow_upper_right:](https://github.com/fer-ppj/ppj-upute/raw/master/ppj_upute.pdf)
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
